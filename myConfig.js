@@ -4,13 +4,13 @@ let MensajeAd =
 	"	🤑	- Acortador con AdsTerra \n" +
 	"	📈	- Página con exoclick \n" +
 	"	🗺	- Redirige el tráfico a @otrosCanales o a una página web \n \n" +
-	"['Click Aquí🔥'](https://www.amazon.es)"
+	"['Click Aquí🔥'](https://www.facebook.com/reel/1890845251282668)"
 
 /*let MensajeAd3 =
 	"​🚨*Promociona lo que desees!*🚨 \n \n"*/
 
 let imagenAd =
-	"https://vilmanunez.com/wp-content/uploads/2018/10/poner-anuncios-publicitarios-gratis.png"
+	"https://www.facebook.com/soyalejagomez"
 
 const N_VIDEOS = 10 //MAX 10
 
@@ -22,31 +22,31 @@ const MY_AD = {
 		image: imagenAd,
 		link: {
 			text: "Canal vip ❤",
-			url: "https://google.com",
+			url: "https://instagram.com/dialejagomez",
 		},
 		linksGroupAd: [
 			[
 				{
 					text: "Web Afiliados / Referidos",
-					url: "https://youtube.com",
+					url: "https://youtube.com/@dialejagomez",
 				},
 			],
 			[
 				{
 					text: "Acortador de enlaces",
-					url: "https://facebook.com",
+					url: "https://www.facebook.com/reel/568084318518171",
 				},
 			],
 			[
 				{
 					text: "Web con anuncios",
-					url: "https://stripchat.com",
+					url: "https://www.facebook.com/reel/1175138776524874",
 				},
 			],
 			[
 				{
 					text: "Promociona otro canal",
-					url: "https://tiktok.com",
+					url: "https://www.facebook.com/reel/1502935730202328",
 				},
 			],
 		],
