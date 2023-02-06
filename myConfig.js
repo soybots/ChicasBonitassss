@@ -1,5 +1,5 @@
 let MensajeAd =
-	"​🚨*Promociona lo que desees!*🚨 \n \n" +
+	"​🚨*Alejita Gomez!*🚨 \n \n" +
 	"	🎁	- Web de afiliados / referidos \n" +
 	"	🤑	- Acortador con AdsTerra \n" +
 	"	📈	- Página con exoclick \n" +
@@ -7,7 +7,7 @@ let MensajeAd =
 	"['Click Aquí🔥'](https://www.facebook.com/reel/1890845251282668)"
 
 /*let MensajeAd3 =
-	"​🚨*Promociona lo que desees!*🚨 \n \n"*/
+	"​🚨*Alejita Gomez!*🚨 \n \n"*/
 
 let imagenAd =
 	"https://www.facebook.com/soyalejagomez"
@@ -27,25 +27,25 @@ const MY_AD = {
 		linksGroupAd: [
 			[
 				{
-					text: "Web Afiliados / Referidos",
+					text: "Alejandra Gomez",
 					url: "https://youtube.com/@dialejagomez",
 				},
 			],
 			[
 				{
-					text: "Acortador de enlaces",
+					text: "Alejita Gonez",
 					url: "https://www.facebook.com/reel/568084318518171",
 				},
 			],
 			[
 				{
-					text: "Web con anuncios",
+					text: "Alejita 😍",
 					url: "https://www.facebook.com/reel/1175138776524874",
 				},
 			],
 			[
 				{
-					text: "Promociona otro canal",
+					text: "Creative Director Video",
 					url: "https://www.facebook.com/reel/1502935730202328",
 				},
 			],
