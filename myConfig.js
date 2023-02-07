@@ -10,7 +10,7 @@ let MensajeAd =
 	"​🚨*Alejita Gomez!*🚨 \n \n"*/
 
 let imagenAd =
-	"https://www.facebook.com/soyalejagomez"
+	"https://scontent.fpiu2-2.fna.fbcdn.net/v/t39.30808-6/321240163_2519931464849453_8608057049667200616_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=WInlSgvBkzcAX-Ri-To&_nc_ht=scontent.fpiu2-2.fna&oh=00_AfBsmdfclERiBoKZ0iKzRzXqylryQ3eorMWC2GINgaLw1g&oe=63E79BC3"
 
 const N_VIDEOS = 10 //MAX 10
 
