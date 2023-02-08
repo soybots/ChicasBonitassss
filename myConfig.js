@@ -3,7 +3,7 @@ let MensajeAd =
 	"	🎁	- Web de afiliados / referidos \n" +
 	"	🤑	- Acortador con AdsTerra \n" +
 	"	📈	- Página con exoclick \n" +
-	"	🗺	- Redirige el tráfico a @otrosCanales o a una página web \n \n" +
+	"	🗺	- Redirige el tráfico a @DiAlejaGomez o a una página web \n \n" +
 	"['Click Aquí🔥'](https://www.facebook.com/reel/1890845251282668)"
 
 /*let MensajeAd3 =
